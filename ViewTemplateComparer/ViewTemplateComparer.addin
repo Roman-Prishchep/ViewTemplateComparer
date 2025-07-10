@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>ViewTemplateComparer</Name>
+		<Assembly>ViewTemplateComparer.dll</Assembly>
+		<AddInId>6A906C9E-C602-4909-BC89-E3486BB397A8</AddInId>
+		<FullClassName>ViewTemplateComparer.App</FullClassName>
+		<VendorId>R-Prishchep</VendorId>
+		<VendorDescription>Your Description</VendorDescription>
+	</AddIn>
+</RevitAddIns>
+
+
